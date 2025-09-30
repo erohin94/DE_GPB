@@ -1,5 +1,5 @@
 /*Автор скрипта Ерохин Е.С.*/
-/*Выполнено в рамках задачи OPALAB-14848*/
+/*Выполнено в рамках задачи OPALAB-44444*/
 
 TRUNCATE TABLE IF EXISTS sandbox_hr.course_review_filtered_responses_tmp
 /
