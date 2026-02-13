@@ -17,3 +17,6 @@ FROM  schema_test.ees_table
 
 Результат
 
+<img width="785" height="753" alt="image001" src="https://github.com/user-attachments/assets/2d845130-1f90-40fa-989d-b382d12c6a96" />
+
+
