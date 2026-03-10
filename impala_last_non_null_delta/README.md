@@ -79,7 +79,7 @@ SELECT user_id,
        test_6,
        test_7 AS new_report_dt
 FROM t3
-
+```
 <img width="1567" height="413" alt="unnamed" src="https://github.com/user-attachments/assets/abd2dbcb-6c0e-4aa9-8714-503851f838af" />
 
 Если историческая запись в витрине для пары пользователь объект только одна, то необходимо с помощью календаря расширить диапазон.
