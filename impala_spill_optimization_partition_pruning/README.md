@@ -87,6 +87,8 @@ SHOW TABLE STATS sbxm_hr.ees_interaction_agg_pr_five_tmp -- Size 14.25GB
 
 После чего получаю итоговую витрину sbxm_hr.ees_input_contact_interact_agg_test_final, в которой уже нет spill.
 
+**Пример итогового запроса без SPILL:**
+
 ```
 /*Джоин таблиц витрин агрегатов - 1-й и 2-й приоритет с 3-м приоритетом*/
 
