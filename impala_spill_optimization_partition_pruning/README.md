@@ -273,6 +273,6 @@ Per Node Peak Memory Usage: 2.8 GiB
 Aggregate Peak Memory Usage: 40.1 GiB
 Memory Accrual: 3.4 GiB hours
 Duration: 8.6m
-HDFS Bytes Read: 35.3 GiB (18.79GB + 13.37GB)
+HDFS Bytes Read: 35.3 GiB (18.79GB + 13.37GB + Чтение служебных данных и тд)
 HDFS Bytes Written: 30.5 GiB
 ```
